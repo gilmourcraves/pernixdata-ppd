@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -12,3 +13,8 @@
   </component>
   <component name="ProjectRootManager" version="2" />
 </project>
+=======
+  <component name="ProjectRootManager" version="2" />
+</project>
+
+>>>>>>> 89de1fff15748cf668fe25c86ea29cffe6fddaec

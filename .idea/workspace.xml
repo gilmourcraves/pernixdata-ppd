@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d53921b9-1f46-4c0e-942b-125a0660d463" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ppd-application.html" afterPath="$PROJECT_DIR$/ppd-application.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ppd-converged.html" afterPath="$PROJECT_DIR$/ppd-converged.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ppd-media.html" afterPath="$PROJECT_DIR$/ppd-media.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ppd-server.html" afterPath="$PROJECT_DIR$/ppd-server.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ppd-storage.html" afterPath="$PROJECT_DIR$/ppd-storage.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/ppd.css" afterPath="$PROJECT_DIR$/css/ppd.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/ppd.js" afterPath="$PROJECT_DIR$/js/ppd.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PernixPPD.iws" />
@@ -34,18 +30,28 @@
       <file leaf-file-name="ppd-storage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ppd-storage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="49.692307">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="497" column="61" selection-start-line="497" selection-start-column="61" selection-end-line="497" selection-end-column="74" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ppd-media.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ppd-application.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ppd-application.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="116.76923">
+              <caret line="432" column="34" selection-start-line="432" selection-start-column="34" selection-end-line="432" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ppd-media.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ppd-media.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.4627055">
-              <caret line="449" column="71" selection-start-line="449" selection-start-column="71" selection-end-line="449" selection-end-column="71" />
+            <state vertical-scroll-proportion="110.5">
+              <caret line="432" column="140" selection-start-line="432" selection-start-column="140" selection-end-line="432" selection-end-column="140" />
               <folding />
             </state>
           </provider>
@@ -61,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ppd.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ppd.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/ppd.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.52019584">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -88,13 +94,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ppd.html" />
-        <option value="$PROJECT_DIR$/css/ppd.css" />
         <option value="$PROJECT_DIR$/ppd-storage.html" />
         <option value="$PROJECT_DIR$/ppd-server.html" />
         <option value="$PROJECT_DIR$/ppd-converged.html" />
         <option value="$PROJECT_DIR$/js/ppd.js" />
-        <option value="$PROJECT_DIR$/ppd-application.html" />
         <option value="$PROJECT_DIR$/ppd-media.html" />
+        <option value="$PROJECT_DIR$/ppd-application.html" />
+        <option value="$PROJECT_DIR$/css/ppd.css" />
       </list>
     </option>
   </component>
@@ -138,6 +144,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -157,9 +164,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PernixPPD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PernixPPD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,23 +255,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10691574" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2579491" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30047694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2599364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32883242" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962668" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -275,6 +295,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ppd-storage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="497" column="61" selection-start-line="497" selection-start-column="61" selection-end-line="497" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppd-media.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ppd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ppd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ppd.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46329114">
@@ -289,19 +341,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/ppd.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ppd-server.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="54.884617">
           <caret line="474" column="74" selection-start-line="474" selection-start-column="61" selection-end-line="474" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -309,7 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="47.846153">
           <caret line="446" column="122" selection-start-line="446" selection-start-column="101" selection-end-line="446" selection-end-column="122" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -321,26 +363,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppd-application.html">
+    <entry file="file://$PROJECT_DIR$/ppd-media.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="53.76923">
-          <caret line="545" column="69" selection-start-line="545" selection-start-column="69" selection-end-line="545" selection-end-column="69" />
+        <state vertical-scroll-proportion="110.5">
+          <caret line="432" column="140" selection-start-line="432" selection-start-column="140" selection-end-line="432" selection-end-column="140" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ppd-storage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="49.692307">
+        <state vertical-scroll-proportion="-0.0">
           <caret line="497" column="61" selection-start-line="497" selection-start-column="61" selection-end-line="497" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppd-media.html">
+    <entry file="file://$PROJECT_DIR$/ppd-application.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4627055">
-          <caret line="449" column="71" selection-start-line="449" selection-start-column="71" selection-end-line="449" selection-end-column="71" />
+        <state vertical-scroll-proportion="116.76923">
+          <caret line="432" column="34" selection-start-line="432" selection-start-column="34" selection-end-line="432" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ppd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52019584">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding />
         </state>
       </provider>

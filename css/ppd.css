@@ -99,3 +99,15 @@ ul.dot-sm {
 .ppd-features-col-3 {
 
 }
+
+ul.ppd-asset li {
+    display:none;
+}
+
+ul.ppd-category li {
+    cursor:pointer;
+}
+
+.active{
+    color: rgb(171, 35, 40);
+}
